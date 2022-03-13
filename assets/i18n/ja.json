@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "1A2Bゲーム",
+    "language": {
+      "en": "英語",
+      "ja": "日本語",
+      "tw": "中国語(繁)"
+    }
+  },
+  "common": {
+    "language": "言語"
+  },
+  "button": {
+    "start_game": "ゲーム開始"
+  }
+}

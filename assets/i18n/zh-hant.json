@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "猜字遊戲",
+    "language": {
+      "en": "英文",
+      "ja": "日文",
+      "tw": "中文"
+    }
+  },
+  "common": {
+    "language": "語言"
+  },
+  "button": {
+    "start_game": "開始遊戲"
+  }
+}
