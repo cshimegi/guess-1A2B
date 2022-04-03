@@ -5,6 +5,14 @@
       "en": "English",
       "ja": "Japanese",
       "tw": "Chinese"
+    },
+    "footer": {
+      "stage": "Stage",
+      "history": "History"
+    },
+    "introduction": {
+      "title": "Welcome to 1A2B game!",
+      "content": "There are 10 stages. Player has to guess which 4 letters are given. Let's select a stage and start the game!"
     }
   },
   "common": {
@@ -12,5 +20,20 @@
   },
   "button": {
     "start_game": "Start games"
+  },
+  "stage": {
+    "title": "Stage {stage}",
+    "description": {
+      "stage1": "Each word is a number between 0 and 9.",
+      "stage2": "Each word is a lowercase alphabet.",
+      "stage3": "The first word is a lowercase alphabet. The rest of words are numbers between 0 and 9.",
+      "stage4": "The first two words are lowercase alphabets. The rest of words are numbers between 0 and 9.",
+      "stage5": "The last word is a number between 0 and 9. The rest of words are lowercase alphabets.",
+      "stage6": "The first word is a lowercase alphabet or a number between 0 and 9. The rest of words are numbers between 0 and 9.",
+      "stage7": "Both first two words are a lowercase alphabet or a number between 0 and 9. The rest of words are numbers between 0 and 9.",
+      "stage8": "The first word is a lowercase alphabet or a number between 0 and 9. The rest of words are alphabets.",
+      "stage9": "Both first two words are a lowercase alphabet or a number between 0 and 9. The rest of words are alphabets.",
+      "stage10": "Each word is a lowercase alphabet or a number between 0 and 9."
+    }
   }
 }
